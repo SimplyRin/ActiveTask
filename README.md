@@ -1,5 +1,5 @@
 # ActiveTask
-C++ で実行中のアプリ名を取得する物 (Java と組み合わせる為に)
+C++ でアクティブアプリ(選択中のソフト)のタイトルを取得する物 (Java と組み合わせる用に)
 
 # Usage
 [Releases](https://github.com/SimplyRin/ActiveTask/releases) から [ActiveTask.exe](https://github.com/SimplyRin/ActiveTask/releases/download/1.0/ActiveTask.exe) をダウンロード
