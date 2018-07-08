@@ -1,4 +1,3 @@
-// Simple Hello World program
 #include <stdio.h>
 #include <windows.h>
 
